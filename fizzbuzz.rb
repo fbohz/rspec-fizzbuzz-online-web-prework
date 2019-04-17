@@ -3,5 +3,5 @@
 require 'pry'
 def fizzbuzz(num)
  #binding.pry
- if num 
+ if num % 3 == 0 
 end
